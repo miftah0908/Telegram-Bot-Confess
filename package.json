@@ -1,0 +1,9 @@
+{
+  "name": "telegram-confession-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for anonymous confession and replies.",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
